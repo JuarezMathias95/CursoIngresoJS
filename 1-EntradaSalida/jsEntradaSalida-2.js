@@ -4,5 +4,3 @@ function mostrar()
 {var nombre = prompt("Ingresar nombre");
 alert (nombre);
 
-}
-
