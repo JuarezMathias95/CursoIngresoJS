@@ -2,5 +2,5 @@
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {var nombre = prompt("Ingresar nombre");
-alert (nombre);
-
+alert(nombre);
+}
