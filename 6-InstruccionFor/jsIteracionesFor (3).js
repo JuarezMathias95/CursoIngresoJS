@@ -1,8 +1,12 @@
 function mostrar()
 {
 
-var repetciones = prompt("ingrese el número de repeticiones");
+    var x 
+    var repeticiones = prompt("Ingrese la cantidad de veces que quiere repetir el mensaje");
 
-
+    for(x=repeticiones;repeticiones+1;repeticiones--);
+    {
+    alert("HOLA UTN FRA" + repeticiones);
+    }  
 
 }//FIN DE LA FUNCIÓN
